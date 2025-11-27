@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sx126x.h": "c",
+        "freertos.h": "c",
+        "stm32mp1xx_hal.h": "c"
+    }
+}
